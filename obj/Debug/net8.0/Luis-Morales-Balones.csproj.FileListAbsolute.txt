@@ -1,0 +1,15 @@
+C:\Users\DAVID\Luis-Morales-Balones\bin\Debug\net8.0\Luis-Morales-Balones.exe
+C:\Users\DAVID\Luis-Morales-Balones\bin\Debug\net8.0\Luis-Morales-Balones.deps.json
+C:\Users\DAVID\Luis-Morales-Balones\bin\Debug\net8.0\Luis-Morales-Balones.runtimeconfig.json
+C:\Users\DAVID\Luis-Morales-Balones\bin\Debug\net8.0\Luis-Morales-Balones.dll
+C:\Users\DAVID\Luis-Morales-Balones\bin\Debug\net8.0\Luis-Morales-Balones.pdb
+C:\Users\DAVID\Luis-Morales-Balones\obj\Debug\net8.0\Luis-Morales-Balones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAVID\Luis-Morales-Balones\obj\Debug\net8.0\Luis-Morales-Balones.AssemblyInfoInputs.cache
+C:\Users\DAVID\Luis-Morales-Balones\obj\Debug\net8.0\Luis-Morales-Balones.AssemblyInfo.cs
+C:\Users\DAVID\Luis-Morales-Balones\obj\Debug\net8.0\Luis-Morales-Balones.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\Luis-Morales-Balones\obj\Debug\net8.0\Luis-Morales-Balones.sourcelink.json
+C:\Users\DAVID\Luis-Morales-Balones\obj\Debug\net8.0\Luis-Morales-Balones.dll
+C:\Users\DAVID\Luis-Morales-Balones\obj\Debug\net8.0\refint\Luis-Morales-Balones.dll
+C:\Users\DAVID\Luis-Morales-Balones\obj\Debug\net8.0\Luis-Morales-Balones.pdb
+C:\Users\DAVID\Luis-Morales-Balones\obj\Debug\net8.0\Luis-Morales-Balones.genruntimeconfig.cache
+C:\Users\DAVID\Luis-Morales-Balones\obj\Debug\net8.0\ref\Luis-Morales-Balones.dll
