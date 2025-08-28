@@ -1,0 +1,1 @@
+namespace LuisMoralesBalones { public class FacturaBalon { public int Id {get;set;} public int FacturaId {get;set;} public Factura? Factura {get;set;} public int BalonId {get;set;} public Balon? Balon {get;set;} public int Cantidad {get;set;} } } 

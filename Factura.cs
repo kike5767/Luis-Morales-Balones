@@ -1,0 +1,1 @@
+using System; using System.Collections.Generic; namespace LuisMoralesBalones { public class Factura { public int Id {get;set;} public DateTime Fecha {get;set;} public int ClienteId {get;set;} public Cliente? Cliente {get;set;} public List<FacturaBalon> FacturaBalones {get;set;} = new(); } } 
