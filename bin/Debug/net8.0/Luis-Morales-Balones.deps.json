@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Luis-Morales-Balones/1.0.0": {
+        "runtime": {
+          "Luis-Morales-Balones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Luis-Morales-Balones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
